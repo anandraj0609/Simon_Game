@@ -8,6 +8,9 @@ Created Simon Game Using my Knowledge of HTML, CSS, Javascript and jQuery
 
 Each level will have different set(s) of button blink, player must follow the order of how the button blink and click the corresponding button in order. If all buttons were click correctly, player will enter next level and have a more complex set of challenge as the game progresses to higher levels.
 
+## Play
+-https://anandraj0609.github.io/Simon_Game/
+
 ## References
 
 - https://api.jquery.com/id-selector/
